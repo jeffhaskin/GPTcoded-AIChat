@@ -1,6 +1,6 @@
 # GPTcoded-AIChat
 
-I--a non-programmer--am using ChatGPT to code an iOS AI Chat app. It is very basic in design and function. Current Features (updated 2024-05-24)
+I'm using ChatGPT to code an iOS AI Chat app. It is very basic in design and function. Current Features (updated 2024-05-24)
 
 ## V1.0.0-alpha.1
 1. Chat with GPT-4o.
