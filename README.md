@@ -15,8 +15,14 @@ ChatGPTs responses currently aren't streaming, they just appear when they're com
 2. Basic conversation memory (verbatim conversation history).
 3. Settings window where you can enter your OpenAI API Key.
 4. Navigation panel.
-
+   
 The Navigation Panel is currently just there for the settings link. Contains dummy elements in preparation to support multiple conversations in the next version.
+
+### V1.0.0-alpha.3 - First fully functional release!
+
+1. Now suports multiple conversations, including add and swipe-to-delete!
+2. Settings window is now modal and works correctly.
+3. Uses multi-file structure according to best practice.
 
 ## Installation
 
