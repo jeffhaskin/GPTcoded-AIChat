@@ -19,6 +19,7 @@ ChatGPTs responses currently aren't streaming, they just appear when they're com
 The Navigation Panel is currently just there for the settings link. Contains dummy elements in preparation to support multiple conversations in the next version.
 
 ### V1.0.0-alpha.3 - First fully functional release!
+![IMG_0203](https://github.com/jeffhaskin/GPTcoded-AIChat/assets/60890286/69a99734-84f4-4ba7-95e2-33ed12fb2e77)
 
 1. Now suports multiple conversations, including add and swipe-to-delete!
 2. Settings window is now modal and works correctly.
